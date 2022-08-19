@@ -5,6 +5,31 @@ Teams are scored using an electronic, internet-connected task board and scoring 
 
 ## Robothon 2022 Results
 
+Important Dates:
+- Application Deadline: 05.04.2022
+- Kickoff Meeting: 29.04.2022
+- Submission Deadline: 29.05.2022
+- Jury Evaluations: 02-08.06.2022
+- Award Ceremony: 21.06.2022
+
+Competition Rules: 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
+- SmartTaskBoard-v2022 "Rigid Design", 
+    - START Press M5 Button,
+    - Button Press, 
+    - Pick Key from Holster and Activate Key Switch, 
+    - Move Ethernet Plug, 
+    - Open and Extract AA Batts, 
+    - Recycle Batts, 
+    - Extract Coin Batt, 
+    - END Press Stop Button
+
+- Grading Rubric: 200 Points available
+    - Automatic Grading: Task Completion Time
+    - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points)
+    - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
+    - Transferability: "Bring Your Own Device" (30 points)
+    - Live Presentation: 30min Zoom Call with Jury (40 points)
+
 | Rank | Team                     | Country | Score | Time | Repo | Submission |
 |------|--------------------------|---------|-------|------|------|------------|
 | 1    | CARI                     | IT      | 200   | 79   | [Link](https://github.com/JRL-CARI-CNR-UNIBS/robothon2022_report) | [Link](https://www.youtube.com/watch?v=-7PKODsL5Hg)       |
@@ -25,6 +50,27 @@ Teams are scored using an electronic, internet-connected task board and scoring 
 
 ## Robothon 2021 Results
 
+Important Dates:
+- Application Deadline: 05.04.2021
+- Kickoff Meeting: 14.05.2021
+- Submission Deadline: 13.06.2021
+- Jury Evaluations: 14-18.06.2021
+- Award Ceremony: 22.06.2021
+
+Competition Rules: 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
+- SmartTaskBoard-v2021 "Cantilevered Design"
+    - START Press M5 Button,
+    - Button Press, (2 points) 
+    - Pick Key from Holster and Activate Key Switch, (4 points)
+    - Move Ethernet Plug, (4 points)
+    - Open and Extract AA Batts, (4 points)
+    - Recycle Batts, (6 points)
+    - END Press Stop Button
+
+- Grading Rubric: 20 Points Available
+    - Automatic Grading: Task Completion Time
+    - Live Presentation: 30min Zoom Call with Jury (20 points)
+
 | Rank | Team               | Country | Score | Time | Submission |
 |------|--------------------|---------|-------|------|------------|
 | 1    | RoboTHIx           | DE      | 20    | 110  | [Link](https://youtu.be/ioGHIkiT0CQ)       |
@@ -36,3 +82,5 @@ Teams are scored using an electronic, internet-connected task board and scoring 
 | 7    | ECODOBO            | IN      | 8     | DNF  | [Link](https://youtu.be/ZrWcuYw5IAU)       |
 | 8    | Pandaria One       | DE      | 6     | DNF  | [Link](https://youtu.be/qHaRNH115nM)       |
 | 9    | Schmalkalden       | DE      | (20)  | DNF  | [Link](https://youtu.be/EDeVlx6ivnI)       |
+
+NOTE: Schmalkalden only completed tasks on a fixed task board and did not randomize the position prior to trial start.
