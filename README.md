@@ -1,7 +1,12 @@
 # robothon-grand-challenge
-Repo to hold results and contributed works from the Robothon Grand Challenge Series. Competition details can be found on the website: [www.robothon-grand-challenge.com](www.robothon-grand-challenge.com). 
+Repo to hold results and contributed works from the Robothon Grand Challenge Series. Competition details can be found on the website: [www.robothon-grand-challenge.com](http://www.robothon-grand-challenge.com). 
 
 Teams are scored using an electronic, internet-connected task board and scoring rubric for each competition iteration. Scores are determined based on teams' completion of the rubric and the teams' fastest automated trial completion time is listed in seconds.
+
+## Robothon 2023 Results
+***Coming Soon! Submissions due April 30, 2023.***
+
+Follow along by viewing real-time results from our 20 international teams on the task board [web dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad).
 
 ## Robothon 2022 Results
 
