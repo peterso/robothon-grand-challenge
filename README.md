@@ -8,6 +8,26 @@ Teams are scored using an electronic, internet-connected task board and scoring 
 
 Follow along by viewing real-time results from our 20 international teams on the task board [web dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad).
 
+Team submissions (ordered alphabetically)
+| #  |                  Team                 | Country | Repo                                                                                         |
+|----|-------------------------------------|---------|----------------------------------------------------------------------------------------------|
+| 1  | autonomous:go                         | CS      | [Link](https://github.com/tbiocanin/robothon-BU)                                                     |
+| 2  | b-it-bots                             | DE      | [Link](https://github.com/b-it-bots/robothon2023)                                                    |
+| 3  | bisCARI                               | IT      | [Link](https://github.com/JRL-CARI-CNR-UNIBS/Robothon2023/)                                          |
+| 4  | EcoBot                                | DE      | [Link](https://github.com/Hariharan2096/Robothon-2023---Team-Ecobot-Documentation.git)               |
+| 5  | Indian Institute of Science Bangalore | IN      | [Link](https://github.com/ShravanShenoyRobothon/Robothon_Submission.git)                             |
+| 6  | OSCAR                                 | FR      | [Link](https://github.com/bmeCEA/Robothon2023_Team_OSCAR)                                            |
+| 7  | PLATOnics                             | NL      | [Link](https://github.com/platonics-delft/robothon23_manipulation)                                   |
+| 8  | REAL Robot                          | CN      | [Link](https://github.com/harryting-yiting/Robothon2023_REAL)                                        |
+| 9  | RoboPig                               | DE      | [Link](https://github.com/Usaali/Robothon23_Team_RoboPig)                                            |
+| 10 | RoboTechX MDX                       | AE      | [Link](https://github.com/judhi/Robothon2023)                                                        |
+| 11 | roboTHIx                              | DE      | [Link](https://github.com/christianpfitzner/thi_robothix_grand_challenge/tree/task_implementations)  |
+| 12 | Sophia S&P Labs                     | FR      | [Link](https://github.com/sp-sophia-labs/robothon2023)                                               |
+| 13 | SYNbotics                             | DE      | [Link](https://github.com/Aishkrish18/Robothon_2023)                                                 |
+| 14 | TechWi(e)nBot                         | AT      | [Link](https://github.com/SebastianNeuhofer/Robothon-2023-Grand-Challenge-TechWi-e-nBot-Team-Report) |
+| 15 | Upcyclers                             | DE      | [Link](https://github.com/hrii-iit/robothon-2023-documentation)                                      |
+| 16 | Wall-E 4.0                          | DE      | [Link](https://github.com/tslimak/Robothon_2023)                                                     |
+
 ## Robothon 2022 Results
 
 Important Dates:
