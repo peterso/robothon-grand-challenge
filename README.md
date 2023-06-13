@@ -8,6 +8,10 @@ Teams are scored using an electronic, internet-connected task board and scoring 
 
 Follow along by viewing real-time results from our 20 international teams on the task board [web dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad).
 
+- Summary: 
+    - 29 Applications, 20 Selected Teams, 7 Finishers, Best Time XX seconds.
+    - 23,000EUR Prize Money, 5 Sponsors, 9 Jury Members, 2 Partners
+
 Team submissions (ordered alphabetically)
 | #  |                  Team                 | Country | Repo                                                                                         |
 |----|-------------------------------------|---------|----------------------------------------------------------------------------------------------|
@@ -49,11 +53,15 @@ Competition Rules: 10 minute time limit, Task Board randomly placed by team and 
     - END Press Stop Button
 
 - Grading Rubric: 200 Points available
-    - Automatic Grading: Task Completion Time
+    - Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
     - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points)
     - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
     - Transferability: "Bring Your Own Device" (30 points)
     - Live Presentation: 30min Zoom Call with Jury (40 points)
+
+- Summary: 
+    - 25 Applications, 20 Selected Teams, 6 Finishers, Best Time 31 seconds.
+    - 18,000EUR Prize Money, 4 Sponsors, 9 Jury Members, 2 Partners
 
 | Rank | Team                     | Country | Score | Time | Repo | Submission |
 |------|--------------------------|---------|-------|------|------|------------|
@@ -84,17 +92,21 @@ Important Dates:
 
 Competition Rules: 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
 - SmartTaskBoard-v2021 "Cantilevered Design"
-    - START Press M5 Button,
+    - START Press M5 Button (performed by operator),
     - Button Press, (2 points) 
-    - Pick Key from Holster and Activate Key Switch, (4 points)
-    - Move Ethernet Plug, (4 points)
-    - Open and Extract AA Batts, (4 points)
-    - Recycle Batts, (6 points)
-    - END Press Stop Button
+    - Pick Key from Holster and Insert and Turn to Activate Key Switch, (4 points)
+    - Move Ethernet Plug from starting port to goal port, (4 points)
+    - Open Battery Box and Extract 2xAA Batts, (4 points)
+    - Recycle 2xBatts, (6 points)
+    - END Press Stop Button to end timed trial.
 
 - Grading Rubric: 20 Points Available
-    - Automatic Grading: Task Completion Time
+    - Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
     - Live Presentation: 30min Zoom Call with Jury (20 points)
+
+- Summary: 
+    - 14 Applications, 9 Selected Teams, 4 Finishers, Best Time 110 seconds.
+    - 23,000EUR Prize Money, 3 Sponsors, 9 Jury Members, 1 Partner
 
 | Rank | Team               | Country | Score | Time | Submission |
 |------|--------------------|---------|-------|------|------------|
