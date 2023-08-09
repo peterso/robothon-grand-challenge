@@ -4,33 +4,54 @@ Repo to hold results and contributed works from the Robothon Grand Challenge Ser
 Teams are scored using an electronic, internet-connected task board and scoring rubric for each competition iteration. Scores are determined based on teams' completion of the rubric and the teams' fastest automated trial completion time is listed in seconds.
 
 ## Robothon 2023 Results
-***Coming Soon! Submissions due April 30, 2023.***
 
-Follow along by viewing real-time results from our 20 international teams on the task board [web dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad).
+Important Dates:
+- Application Deadline: 28.02.2023
+- Kickoff Meeting: 28.03.2023
+- Submission Deadline: 30.04.2023
+- Jury Evaluations: 08-11.05.2023
+- Award Ceremony: 29.06.2023
+
+Competition Rules: 10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start
+- SmartTaskBoard-v2023 "Multimeter Design", 
+    - START TRIAL: Press M5 Button (Operator),
+    - TASK 1: Localize task board and Press Blue Button, 
+    - TASK 2: Move slider to center of travel, then read the randomly selected set point from the screen and move the slider to match,
+    - TASK 3: Pick up the Probe Cable Plug and insert into the Test Port,
+    - TASK 4: Open Door, pick up Probe Tip and insert into the Terminal Block Test Point,
+    - TASK 5: Wrap the Probe Cable around the two Posts and stow the Probe Tip,
+    - END TRIAL: Press Stop Button (Robot)
+
+- Grading Rubric: 200 Points available
+    - Automatic Grading: Task Completion Time over the [2023 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
+    - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
+    - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
+    - Transferability: "Bring Your Own Device" (30 points)
+    - Live Presentation: 30min Zoom Call with Jury (40 points)
 
 - Summary: 
-    - 29 Applications, 20 Selected Teams, 7 Finishers, Best Time XX seconds.
+    - 29 Applications, 20 Selected Teams, 7 Finishers, Best Time 57 seconds.
     - 23,000EUR Prize Money, 5 Sponsors, 9 Jury Members, 2 Partners
 
-Team submissions (ordered alphabetically)
-| #  |                  Team                 | Country | Repo                                                                                         |
-|----|-------------------------------------|---------|----------------------------------------------------------------------------------------------|
-| 1  | autonomous:go                         | CS      | [Link](https://github.com/tbiocanin/robothon-BU)                                                     |
-| 2  | b-it-bots                             | DE      | [Link](https://github.com/b-it-bots/robothon2023)                                                    |
-| 3  | bisCARI                               | IT      | [Link](https://github.com/JRL-CARI-CNR-UNIBS/Robothon2023/)                                          |
-| 4  | EcoBot                                | DE      | [Link](https://github.com/Hariharan2096/Robothon-2023---Team-Ecobot-Documentation.git)               |
-| 5  | Indian Institute of Science Bangalore | IN      | [Link](https://github.com/ShravanShenoyRobothon/Robothon_Submission.git)                             |
-| 6  | OSCAR                                 | FR      | [Link](https://github.com/bmeCEA/Robothon2023_Team_OSCAR)                                            |
-| 7  | PLATOnics                             | NL      | [Link](https://github.com/platonics-delft/robothon23_manipulation)                                   |
-| 8  | REAL Robot                          | CN      | [Link](https://github.com/harryting-yiting/Robothon2023_REAL)                                        |
-| 9  | RoboPig                               | DE      | [Link](https://github.com/Usaali/Robothon23_Team_RoboPig)                                            |
-| 10 | RoboTechX MDX                       | AE      | [Link](https://github.com/judhi/Robothon2023)                                                        |
-| 11 | roboTHIx                              | DE      | [Link](https://github.com/christianpfitzner/thi_robothix_grand_challenge/tree/task_implementations)  |
-| 12 | Sophia S&P Labs                     | FR      | [Link](https://github.com/sp-sophia-labs/robothon2023)                                               |
-| 13 | SYNbotics                             | DE      | [Link](https://github.com/Aishkrish18/Robothon_2023)                                                 |
-| 14 | TechWi(e)nBot                         | AT      | [Link](https://github.com/SebastianNeuhofer/Robothon-2023-Grand-Challenge-TechWi-e-nBot-Team-Report) |
-| 15 | Upcyclers                             | DE      | [Link](https://github.com/hrii-iit/robothon-2023-documentation)                                      |
-| 16 | Wall-E 4.0                          | DE      | [Link](https://github.com/tslimak/Robothon_2023)                                                     |
+Team submissions and Results
+| Rank | Team                                  | Country | Part I Score | Part II Score | Total Score | Best Trial Time | Repo                                                                                         |
+|:----:|---------------------------------------|:-------:|:------------:|:-------------:|:-----------:|:---------------:|----------------------------------------------------------------------------------------------|
+|   1  | RoboPig                               |    DE   |      160     |       40      |     200     |        57       | https://github.com/Usaali/Robothon23_Team_RoboPig                                            |
+|   2  | bisCARI                               |    IT   |      160     |       40      |     200     |        73       | https://github.com/JRL-CARI-CNR-UNIBS/Robothon2023/                                          |
+|   3  | OSCAR                                 |    FR   |      160     |       40      |     200     |        67       | https://github.com/bmeCEA/Robothon2023_Team_OSCAR                                            |
+|   4  | TechWi(e)nBot                         |    AT   |      160     |       40      |     200     |        62       | https://github.com/SebastianNeuhofer/Robothon-2023-Grand-Challenge-TechWi-e-nBot-Team-Report |
+|   5  | REAL   Robot                          |    CN   |      160     |       40      |     200     |        82       | https://github.com/harryting-yiting/Robothon2023_REAL                                        |
+|   6  | b-it-bots                             |    DE   |      140     |       40      |     180     |       360       | https://github.com/b-it-bots/robothon2023                                                    |
+|   7  | Upcyclers                             |    DE   |      135     |       36      |     171     |       180       | https://github.com/hrii-iit/robothon-2023-documentation                                      |
+|   8  | PLATOnics                             |    NL   |      110     |       36      |     146     |       330       | https://github.com/platonics-delft/robothon23_manipulation                                   |
+|   9  | EcoBot                                |    DE   |      77      |       36      |     113     |       175       | https://github.com/Hariharan2096/Robothon-2023---Team-Ecobot-Documentation.git               |
+|  10  | Wall-E   4.0                          |    DE   |      55      |       36      |      90     |       295       | https://github.com/tslimak/Robothon_2023                                                     |
+|  11  | Sophia   S&P Labs                     |    FR   |      60      |       35      |      90     |       DNF       | https://github.com/sp-sophia-labs/robothon2023                                               |
+|  12  | RoboTechX   MDX                       |    AE   |      90      |       0       |      90     |       187       | https://github.com/judhi/Robothon2023                                                        |
+|  13  | Indian Institute of Science Bangalore |    IN   |      85      |       0       |      85     |       DNF       | https://github.com/ShravanShenoyRobothon/Robothon_Submission.git                             |
+|  14  | SYNbotics                             |    DE   |      58      |       0       |      58     |       DNF       | https://github.com/Aishkrish18/Robothon_2023                                                 |
+|  15  | roboTHIx                              |    DE   |      49      |       0       |      49     |       DNF       | https://github.com/christianpfitzner/thi_robothix_grand_challenge/tree/task_implementations  |
+|  16  | autonomous:go                         |    CS   |      47      |       0       |      47     |       DNF       | https://github.com/tbiocanin/robothon-BU                                                     |
 
 ## Robothon 2022 Results
 
@@ -43,14 +64,14 @@ Important Dates:
 
 Competition Rules: 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
 - SmartTaskBoard-v2022 "Rigid Design", 
-    - START Press M5 Button,
+    - START TRIAL: Press M5 Button (Operator),
     - Button Press, 
     - Pick Key from Holster and Activate Key Switch, 
     - Move Ethernet Plug, 
     - Open and Extract AA Batts, 
     - Recycle Batts, 
     - Extract Coin Batt, 
-    - END Press Stop Button
+    - END TRIAL: Press Stop Button (Robot)
 
 - Grading Rubric: 200 Points available
     - Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
@@ -92,13 +113,13 @@ Important Dates:
 
 Competition Rules: 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
 - SmartTaskBoard-v2021 "Cantilevered Design"
-    - START Press M5 Button (performed by operator),
+    - START TRIAL: Press M5 Button (Operator),
     - Button Press, (2 points) 
     - Pick Key from Holster and Insert and Turn to Activate Key Switch, (4 points)
     - Move Ethernet Plug from starting port to goal port, (4 points)
     - Open Battery Box and Extract 2xAA Batts, (4 points)
     - Recycle 2xBatts, (6 points)
-    - END Press Stop Button to end timed trial.
+    - END TRIAL: Press Stop Button to end timed trial.
 
 - Grading Rubric: 20 Points Available
     - Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
