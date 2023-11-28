@@ -1,18 +1,26 @@
 # robothon-grand-challenge
-Repo to hold results and contributed works from the Robothon Grand Challenge Series. Competition details can be found on the website: [www.robothon-grand-challenge.com](http://www.robothon-grand-challenge.com). 
+This repository holds the results and contributed works from the Robothon Grand Challenge Series. Details about the event can be found on the competition website: [www.robothon-grand-challenge.com](https://www.robothon-grand-challenge.com). 
 
-Teams are scored using an electronic, internet-connected task board and scoring rubric for each competition iteration. Scores are determined based on teams' completion of the rubric and the teams' fastest automated trial completion time is listed in seconds.
+Teams are scored using an electronic, internet-connected task board which is mailed to qualifying teams to prepare fully automated robot manipulation skills with their own robot platform in their own robot lab. Teams are scored using a predefined rubric for each competition iteration and final submissions are presented live to an expert jury over video conference to verify the results. The scores below are determined based on each team's progress in the competition. Teams with the fastest automated trial completion time during the jury-witnessed demonstration are considered the event winners. Completion times are listed in seconds.
 
-## Robothon 2023 Results
+## Table of Contents
 
-Important Dates:
+- [Robothon 2023 Results](#results2023)
+- [Robothon 2022 Results](#results2022)
+- [Robothon 2021 Results](#results2021)
+- [Citation](#citation)
+
+## [Robothon 2023 Results](#results2023)
+
+### Important Dates:
 - Application Deadline: 28.02.2023
 - Kickoff Meeting: 28.03.2023
 - Submission Deadline: 30.04.2023
 - Jury Evaluations: 08-11.05.2023
 - Award Ceremony: 29.06.2023
 
-Competition Rules: 10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start
+### Competition Rules: 
+10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start
 - SmartTaskBoard-v2023 "Multimeter Design", 
     - START TRIAL: Press M5 Button (Operator),
     - TASK 1: Localize task board and Press Blue Button, 
@@ -22,18 +30,18 @@ Competition Rules: 10-minute time limit for fully autonomous solution, task boar
     - TASK 5: Wrap the Probe Cable around the two Posts and stow the Probe Tip,
     - END TRIAL: Press Stop Button (Robot)
 
-- Grading Rubric: 200 Points available
-    - Automatic Grading: Task Completion Time over the [2023 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
-    - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
-    - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
-    - Transferability: "Bring Your Own Device" (30 points)
-    - Live Presentation: 30min Zoom Call with Jury (40 points)
+### Grading Rubric: 200 Points available
+- Automatic Grading: Task Completion Time over the [2023 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
+- Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
+- Documentation: Github Repo of Submission with Quick Start Guide (30 points)
+- Transferability: "Bring Your Own Device" (30 points)
+- Live Presentation: 30min Zoom Call with Jury (40 points)
 
-- Summary: 
-    - 29 Applications, 20 Selected Teams, 7 Finishers, Best Time 57 seconds.
-    - 23,000EUR Prize Money, 5 Sponsors, 9 Jury Members, 2 Partners
+### Summary: 
+- 29 Applications, 20 Selected Teams, 7 Finishers, Best Time 57 seconds.
+- 23,000EUR Prize Money, 5 Sponsors, 9 Jury Members, 2 Partners
 
-Team submissions and Results
+### Team Submissions and Results
 | Rank | Team                                  | Country | Part I Score | Part II Score | Total Score | Best Trial Time | Repo                                                                                                 | Submission                            |
 |:----:|---------------------------------------|:-------:|:------------:|:-------------:|:-----------:|:---------------:|------------------------------------------------------------------------------------------------------|---------------------------------------|
 |   1  | RoboPig                               |    DE   |      160     |       40      |     200     |        57       | [Link](https://github.com/Usaali/Robothon23_Team_RoboPig)                                            | [Video](https://youtu.be/mdQzEPgGY5c) |
@@ -53,16 +61,17 @@ Team submissions and Results
 |  15  | roboTHIx                              |    DE   |      49      |       0       |      49     |       DNF       | [Link](https://github.com/christianpfitzner/thi_robothix_grand_challenge/tree/task_implementations)  | [Video](https://youtu.be/mBOckCAnD3A) |
 |  16  | autonomous:go                         |    CS   |      47      |       0       |      47     |       DNF       | [Link](https://github.com/tbiocanin/robothon-BU)                                                     | [Video](https://youtu.be/8fgHcx3_Y14) |
 
-## Robothon 2022 Results
+## [Robothon 2022 Results](#results2022)
 
-Important Dates:
+### Important Dates:
 - Application Deadline: 05.04.2022
 - Kickoff Meeting: 29.04.2022
 - Submission Deadline: 29.05.2022
 - Jury Evaluations: 02-08.06.2022
 - Award Ceremony: 21.06.2022
 
-Competition Rules: 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
+### Competition Rules: 
+10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
 - SmartTaskBoard-v2022 "Rigid Design", 
     - START TRIAL: Press M5 Button (Operator),
     - Button Press, 
@@ -73,17 +82,18 @@ Competition Rules: 10 minute time limit, Task Board randomly placed by team and 
     - Extract Coin Batt, 
     - END TRIAL: Press Stop Button (Robot)
 
-- Grading Rubric: 200 Points available
-    - Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
-    - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points)
-    - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
-    - Transferability: "Bring Your Own Device" (30 points)
-    - Live Presentation: 30min Zoom Call with Jury (40 points)
+### Grading Rubric: 200 Points available
+- Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
+- Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points)
+- Documentation: Github Repo of Submission with Quick Start Guide (30 points)
+- Transferability: "Bring Your Own Device" (30 points)
+- Live Presentation: 30min Zoom Call with Jury (40 points)
 
-- Summary: 
-    - 25 Applications, 20 Selected Teams, 6 Finishers, Best Time 31 seconds.
-    - 18,000EUR Prize Money, 4 Sponsors, 9 Jury Members, 2 Partners
+### Summary: 
+- 25 Applications, 20 Selected Teams, 6 Finishers, Best Time 31 seconds.
+- 18,000EUR Prize Money, 4 Sponsors, 9 Jury Members, 2 Partners
 
+### Team Submissions and Results
 | Rank | Team                     | Country | Score | Time | Repo | Submission |
 |------|--------------------------|---------|-------|------|------|------------|
 | 1    | CARI                     | IT      | 200   | 79   | [Link](https://github.com/JRL-CARI-CNR-UNIBS/robothon2022_report) | [Link](https://www.youtube.com/watch?v=-7PKODsL5Hg)       |
@@ -102,33 +112,35 @@ Competition Rules: 10 minute time limit, Task Board randomly placed by team and 
 | 14   | Pandaria 2.0             | DE      | 36    | DNF  | [Link](https://github.com/flomarjos/pandaria2.0/) | Link       |
 | 15   | UTS-1                    | AU      | 30    | DNF  | [Link](https://github.com/hamyyy/Robothon-Competition) | [Link](https://www.youtube.com/watch?v=ZdJU5q-RZoU)       |
 
-## Robothon 2021 Results
+## [Robothon 2021 Results](#results2021)
 
-Important Dates:
+### Important Dates:
 - Application Deadline: 05.04.2021
 - Kickoff Meeting: 14.05.2021
 - Submission Deadline: 13.06.2021
 - Jury Evaluations: 14-18.06.2021
 - Award Ceremony: 22.06.2021
 
-Competition Rules: 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
+### Competition Rules: 
+10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
 - SmartTaskBoard-v2021 "Cantilevered Design"
     - START TRIAL: Press M5 Button (Operator),
-    - Button Press, (2 points) 
-    - Pick Key from Holster and Insert and Turn to Activate Key Switch, (4 points)
-    - Move Ethernet Plug from starting port to goal port, (4 points)
-    - Open Battery Box and Extract 2xAA Batts, (4 points)
-    - Recycle 2xBatts, (6 points)
+    - TASK1: Find Task Board & Button Press to Confirm, (2 points) 
+    - TASK2: Pick Key from Holster and Insert and Turn to Activate Key Switch, (4 points)
+    - TASK3: Move Ethernet Plug from starting port to goal port, (4 points)
+    - TASK4: Open Battery Box and Extract 2xAA Batts, (4 points)
+    - TASK5: Recycle 2xBatts by placing them into the Recycling Slots, (6 points)
     - END TRIAL: Press Stop Button to end timed trial.
 
-- Grading Rubric: 20 Points Available
-    - Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
-    - Live Presentation: 30min Zoom Call with Jury (20 points)
+### Grading Rubric: 20 Points Available
+- Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
+- Live Presentation: 30min Zoom Call with Jury (20 points)
 
-- Summary: 
-    - 14 Applications, 9 Selected Teams, 4 Finishers, Best Time 110 seconds.
-    - 23,000EUR Prize Money, 3 Sponsors, 9 Jury Members, 1 Partner
+### Summary: 
+- 14 Applications, 9 Selected Teams, 4 Finishers, Best Time 110 seconds.
+- 23,000EUR Prize Money, 3 Sponsors, 9 Jury Members, 1 Partner
 
+### Team Submissions and Results
 | Rank | Team               | Country | Score | Time | Submission |
 |------|--------------------|---------|-------|------|------------|
 | 1    | RoboTHIx           | DE      | 20    | 110  | [Link](https://youtu.be/ioGHIkiT0CQ)       |
@@ -142,3 +154,17 @@ Competition Rules: 10 minute time limit, Task Board randomly placed by team and 
 | 9    | Schmalkalden       | DE      | (20)  | DNF  | [Link](https://youtu.be/EDeVlx6ivnI)       |
 
 NOTE: Schmalkalden only completed tasks on a fixed task board and did not randomize the position prior to trial start.
+
+## [Citation](#citation)
+Please cite our work if you use any content from this page. 
+```bibtex
+@article{So2023DRJ,
+    title = {Digital Robot Judge (DR.J): Building a Task-Centric Performance Database of Real-World Manipulation with Electronic Task Boards},
+    journal = {Robotics and Automation Magazine},
+    year = {2023},
+    url = {https://www.researchgate.net/publication/375329709_Digital_Robot_Judge_DRJ_Building_a_Task-Centric_Performance_Database_of_Real-World_Manipulation_with_Electronic_Task_Boards},
+    author = {Peter So and Andriy Sarabakha and Fan Wu and Utku Culha and Fares Abu-Dakka and Sami Haddadin}
+}
+```
+
+[Back to Top](#start-of-content)
