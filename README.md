@@ -5,12 +5,12 @@ Teams are scored using an electronic, internet-connected task board which is mai
 
 ## Table of Contents
 
-- [Robothon 2023 Results](#results-2023)
-- [Robothon 2022 Results](#results-2022)
-- [Robothon 2021 Results](#results-2021)
+- [Robothon 2023 Results](#robothon-2023-results)
+- [Robothon 2022 Results](#robothon-2022-results)
+- [Robothon 2021 Results](#robothon-2021-results)
 - [Citation](#citation)
 
-## [Robothon 2023 Results](#results-2023)
+## [Robothon 2023 Results](#robothon-2023-results)
 
 ### Important Dates:
 - Application Deadline: 28.02.2023
@@ -61,7 +61,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 |  15  | roboTHIx                              |    DE   |      49      |       0       |      49     |       DNF       | [Link](https://github.com/christianpfitzner/thi_robothix_grand_challenge/tree/task_implementations)  | [Video](https://youtu.be/mBOckCAnD3A) |
 |  16  | autonomous:go                         |    CS   |      47      |       0       |      47     |       DNF       | [Link](https://github.com/tbiocanin/robothon-BU)                                                     | [Video](https://youtu.be/8fgHcx3_Y14) |
 
-## [Robothon 2022 Results](#results-2022)
+## [Robothon 2022 Results](#robothon-2022-results)
 
 ### Important Dates:
 - Application Deadline: 05.04.2022
@@ -112,7 +112,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 | 14   | Pandaria 2.0             | DE      | 36    | DNF  | [Link](https://github.com/flomarjos/pandaria2.0/) | Link       |
 | 15   | UTS-1                    | AU      | 30    | DNF  | [Link](https://github.com/hamyyy/Robothon-Competition) | [Link](https://www.youtube.com/watch?v=ZdJU5q-RZoU)       |
 
-## [Robothon 2021 Results](#results-2021)
+## [Robothon 2021 Results](#robothon-2021-results)
 
 ### Important Dates:
 - Application Deadline: 05.04.2021
