@@ -5,12 +5,12 @@ Teams are scored using an electronic, internet-connected task board which is mai
 
 ## Table of Contents
 
-- [Robothon 2023 Results](#results2023)
-- [Robothon 2022 Results](#results2022)
-- [Robothon 2021 Results](#results2021)
+- [Robothon 2023 Results](#results-2023)
+- [Robothon 2022 Results](#results-2022)
+- [Robothon 2021 Results](#results-2021)
 - [Citation](#citation)
 
-## [Robothon 2023 Results](#results2023)
+## [Robothon 2023 Results](#results-2023)
 
 ### Important Dates:
 - Application Deadline: 28.02.2023
@@ -61,7 +61,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 |  15  | roboTHIx                              |    DE   |      49      |       0       |      49     |       DNF       | [Link](https://github.com/christianpfitzner/thi_robothix_grand_challenge/tree/task_implementations)  | [Video](https://youtu.be/mBOckCAnD3A) |
 |  16  | autonomous:go                         |    CS   |      47      |       0       |      47     |       DNF       | [Link](https://github.com/tbiocanin/robothon-BU)                                                     | [Video](https://youtu.be/8fgHcx3_Y14) |
 
-## [Robothon 2022 Results](#results2022)
+## [Robothon 2022 Results](#results-2022)
 
 ### Important Dates:
 - Application Deadline: 05.04.2022
@@ -112,7 +112,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 | 14   | Pandaria 2.0             | DE      | 36    | DNF  | [Link](https://github.com/flomarjos/pandaria2.0/) | Link       |
 | 15   | UTS-1                    | AU      | 30    | DNF  | [Link](https://github.com/hamyyy/Robothon-Competition) | [Link](https://www.youtube.com/watch?v=ZdJU5q-RZoU)       |
 
-## [Robothon 2021 Results](#results2021)
+## [Robothon 2021 Results](#results-2021)
 
 ### Important Dates:
 - Application Deadline: 05.04.2021
@@ -156,7 +156,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 NOTE: Schmalkalden only completed tasks on a fixed task board and did not randomize the position prior to trial start.
 
 ## [Citation](#citation)
-Please cite our work if you use any content from this page. 
+Please cite our work published in IEEE-RAM if you use any content from this page. You can view the [preprint](https://www.researchgate.net/publication/375329709_Digital_Robot_Judge_DRJ_Building_a_Task-Centric_Performance_Database_of_Real-World_Manipulation_with_Electronic_Task_Boards) on Research Gate.
 ```bibtex
 @article{So2023DRJ,
     title = {Digital Robot Judge (DR.J): Building a Task-Centric Performance Database of Real-World Manipulation with Electronic Task Boards},
