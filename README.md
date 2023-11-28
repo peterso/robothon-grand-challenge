@@ -3,7 +3,7 @@ This repository holds the results and contributed works from the Robothon Grand 
 
 Teams are scored using an electronic, internet-connected task board which is mailed to qualifying teams to prepare fully automated robot manipulation skills with their own robot platform in their own robot lab. Teams are scored using a predefined rubric for each competition iteration and final submissions are presented live to an expert jury over video conference to verify the results. The scores below are determined based on each team's progress in the competition. Teams with the fastest automated trial completion time during the jury-witnessed demonstration are considered the event winners. Completion times are listed in seconds.
 
-## Table of Contents
+## [Table of Contents](#table-of-contents)
 
 - [Robothon 2023 Results](#robothon-2023-results)
 - [Robothon 2022 Results](#robothon-2022-results)
@@ -61,6 +61,8 @@ Teams are scored using an electronic, internet-connected task board which is mai
 |  15  | roboTHIx                              |    DE   |      49      |       0       |      49     |       DNF       | [Link](https://github.com/christianpfitzner/thi_robothix_grand_challenge/tree/task_implementations)  | [Video](https://youtu.be/mBOckCAnD3A) |
 |  16  | autonomous:go                         |    CS   |      47      |       0       |      47     |       DNF       | [Link](https://github.com/tbiocanin/robothon-BU)                                                     | [Video](https://youtu.be/8fgHcx3_Y14) |
 
+[Back to Top](#start-of-content)
+
 ## [Robothon 2022 Results](#robothon-2022-results)
 
 ### Important Dates:
@@ -74,12 +76,12 @@ Teams are scored using an electronic, internet-connected task board which is mai
 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
 - SmartTaskBoard-v2022 "Rigid Design", 
     - START TRIAL: Press M5 Button (Operator),
-    - Button Press, 
-    - Pick Key from Holster and Activate Key Switch, 
-    - Move Ethernet Plug, 
-    - Open and Extract AA Batts, 
-    - Recycle Batts, 
-    - Extract Coin Batt, 
+    - TASK 1: Find Task Board and Press Button to Confirm, 
+    - TASK 2: Pick Key from Holster and Activate Key Switch, 
+    - TASK 3: Move Ethernet Plug, 
+    - TASK 4: Open and Extract AA Batts, 
+    - TASK 5: Recycle Batts, 
+    - TASK 6: Extract Coin Batt, 
     - END TRIAL: Press Stop Button (Robot)
 
 ### Grading Rubric: 200 Points available
@@ -112,6 +114,8 @@ Teams are scored using an electronic, internet-connected task board which is mai
 | 14   | Pandaria 2.0             | DE      | 36    | DNF  | [Link](https://github.com/flomarjos/pandaria2.0/) | Link       |
 | 15   | UTS-1                    | AU      | 30    | DNF  | [Link](https://github.com/hamyyy/Robothon-Competition) | [Link](https://www.youtube.com/watch?v=ZdJU5q-RZoU)       |
 
+[Back to Top](#start-of-content)
+
 ## [Robothon 2021 Results](#robothon-2021-results)
 
 ### Important Dates:
@@ -125,11 +129,11 @@ Teams are scored using an electronic, internet-connected task board which is mai
 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
 - SmartTaskBoard-v2021 "Cantilevered Design"
     - START TRIAL: Press M5 Button (Operator),
-    - TASK1: Find Task Board & Button Press to Confirm, (2 points) 
-    - TASK2: Pick Key from Holster and Insert and Turn to Activate Key Switch, (4 points)
-    - TASK3: Move Ethernet Plug from starting port to goal port, (4 points)
-    - TASK4: Open Battery Box and Extract 2xAA Batts, (4 points)
-    - TASK5: Recycle 2xBatts by placing them into the Recycling Slots, (6 points)
+    - TASK 1: Find Task Board & Press Button to Confirm, (2 points) 
+    - TASK 2: Pick Key from Holster and Insert and Turn to Activate Key Switch, (4 points)
+    - TASK 3: Move Ethernet Plug from starting port to goal port, (4 points)
+    - TASK 4: Open Battery Box and Extract 2xAA Batts, (4 points)
+    - TASK 5: Recycle 2xBatts by placing them into the Recycling Slots, (6 points)
     - END TRIAL: Press Stop Button to end timed trial.
 
 ### Grading Rubric: 20 Points Available
