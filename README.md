@@ -10,7 +10,7 @@ Teams apply to receive a task board in the mail to prepare fully automated robot
 - [Robothon 2023 Results](#robothon-2023-results)
 - [Robothon 2022 Results](#robothon-2022-results)
 - [Robothon 2021 Results](#robothon-2021-results)
-- [Getting your own Task Board](#task-boards)
+- [Getting your own Task Board](#getting-a-task-board)
 - [Citation](#citation)
 
 ## [Robothon 2023 Results](#robothon-2023-results)
@@ -163,8 +163,12 @@ Teams apply to receive a task board in the mail to prepare fully automated robot
 
 NOTE: Schmalkalden only completed tasks on a fixed task board and did not randomize the position prior to trial start.
 
-## [Getting your own Task Board](#task-boards)
+[Back to Top](#start-of-content)
+
+## [Getting your own Task Board](#getting-a-task-board)
 Task boards were designed and produced for the teams as part of their participation the competition. The design of the task board is made [open-source](https://github.com/peterso/robotlearningblock) to enable community members to build their own task boards or create new versions for their specific use case. Please send an email to peter@modularmotions.com if you would like a pre-assembled task board for a specific competition year, i.e. TBv2021, TBv2022, TBv2023. 
+
+[Back to Top](#start-of-content)
 
 ## [Citation](#citation)
 Please cite our work published in IEEE-RAM if you use any content from this page. You can view an early release of the full paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/10378967).
