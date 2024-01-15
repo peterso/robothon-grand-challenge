@@ -1,13 +1,16 @@
 # robothon-grand-challenge
 This repository holds the results and contributed works from the Robothon Grand Challenge Series. Details about the event can be found on the competition website: [www.robothon-grand-challenge.com](https://www.robothon-grand-challenge.com). 
 
-Teams are scored using an electronic, internet-connected task board which is mailed to qualifying teams to prepare fully automated robot manipulation skills with their own robot platform in their own robot lab. Teams are scored using a predefined rubric for each competition iteration and final submissions are presented live to an expert jury over video conference to verify the results. The scores below are determined based on each team's progress in the competition. Teams with the fastest automated trial completion time during the jury-witnessed demonstration are considered the event winners. Completion times are listed in seconds.
+Robot Teams develop fully automated solutions to the manipulation challenges defined on an electronic, internet-connected task board and their results are remotely assessed by a digital robot judge with a web dashboard. Interested readers can read more about our approach in our [IEEE-RAM paper](https://ieeexplore.ieee.org/document/10378967). 
+
+Teams apply to receive a task board in the mail to prepare fully automated robot manipulation skills with their own robot platform. Teams follow a trial protocol to earn points and compete for the fastest execution time over a 30-day development period. Qualified teams present their results live to an expert jury over video conference for verification. The scores below reflect each team's progress in the competition. Teams who have completed the full trial protocol with the fastest completion time during the jury-witnessed demonstration are considered the event winners. Completion times are listed in seconds.
 
 ## [Table of Contents](#table-of-contents)
 
 - [Robothon 2023 Results](#robothon-2023-results)
 - [Robothon 2022 Results](#robothon-2022-results)
 - [Robothon 2021 Results](#robothon-2021-results)
+- [Getting your own Task Board](#task_boards)
 - [Citation](#citation)
 
 ## [Robothon 2023 Results](#robothon-2023-results)
@@ -20,7 +23,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 - Award Ceremony: 29.06.2023
 
 ### Competition Rules: 
-10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start
+10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start.
 - SmartTaskBoard-v2023 "Multimeter Design", 
     - START TRIAL: Press M5 Button (Operator),
     - TASK 1: Localize task board and Press Blue Button, 
@@ -32,12 +35,13 @@ Teams are scored using an electronic, internet-connected task board which is mai
 
 ### Grading Rubric: 200 Points available
 - Automatic Grading: Task Completion Time over the [2023 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
-- Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
-- Documentation: Github Repo of Submission with Quick Start Guide (30 points)
-- Transferability: "Bring Your Own Device" (30 points)
-- Live Presentation: 30min Zoom Call with Jury (40 points)
+- Part 1 Score (160 points available):
+    - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
+    - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
+    - Transferability: "Bring Your Own Device" Challenge (30 points)
+- Part 2 Score (40 points available): Live Presentation: 30min Zoom Call with Jury (40 points)
 
-### Summary: 
+### 2023 Summary [Scorecard](/Assets/Robothon2023_Scorecard_Summary.pdf): 
 - 29 Applications, 20 Selected Teams, 7 Finishers, Best Time 57 seconds.
 - 23,000EUR Prize Money, 5 Sponsors, 9 Jury Members, 2 Partners
 
@@ -91,7 +95,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 - Transferability: "Bring Your Own Device" (30 points)
 - Live Presentation: 30min Zoom Call with Jury (40 points)
 
-### Summary: 
+### 2022 Summary [Scorecard](/Assets/Robothon2022_Scorecard_Summary.pdf): 
 - 25 Applications, 20 Selected Teams, 6 Finishers, Best Time 31 seconds.
 - 18,000EUR Prize Money, 4 Sponsors, 9 Jury Members, 2 Partners
 
@@ -140,7 +144,7 @@ Teams are scored using an electronic, internet-connected task board which is mai
 - Automatic Grading: Task Completion Time over the [2021 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
 - Live Presentation: 30min Zoom Call with Jury (20 points)
 
-### Summary: 
+### 2021 Summary [Scorecard](/Assets/Robothon2021_Scorecard_Summary.pdf): 
 - 14 Applications, 9 Selected Teams, 4 Finishers, Best Time 110 seconds.
 - 23,000EUR Prize Money, 3 Sponsors, 9 Jury Members, 1 Partner
 
@@ -159,15 +163,23 @@ Teams are scored using an electronic, internet-connected task board which is mai
 
 NOTE: Schmalkalden only completed tasks on a fixed task board and did not randomize the position prior to trial start.
 
+## [Getting your own Task Board](#task_boards)
+Task boards were designed and produced for the teams as part of their participation the competition. The design of the task board is made [open-source](https://github.com/peterso/robotlearningblock) to enable community members to build their own task boards or create new versions for their specific use case. Please send an email to peter@modularmotions.com if you would like a pre-assembled task board for a specific competition year, i.e. TBv2021, TBv2022, TBv2023. 
+
 ## [Citation](#citation)
-Please cite our work published in IEEE-RAM if you use any content from this page. You can view the [preprint](https://www.researchgate.net/publication/375329709_Digital_Robot_Judge_DRJ_Building_a_Task-Centric_Performance_Database_of_Real-World_Manipulation_with_Electronic_Task_Boards) on Research Gate.
+Please cite our work published in IEEE-RAM if you use any content from this page. You can view an early release of the full paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/10378967).
+
+Bibtex
 ```bibtex
-@article{So2023DRJ,
-    title = {Digital Robot Judge (DR.J): Building a Task-Centric Performance Database of Real-World Manipulation with Electronic Task Boards},
-    journal = {Robotics and Automation Magazine},
-    year = {2023},
-    url = {https://www.researchgate.net/publication/375329709_Digital_Robot_Judge_DRJ_Building_a_Task-Centric_Performance_Database_of_Real-World_Manipulation_with_Electronic_Task_Boards},
-    author = {Peter So and Andriy Sarabakha and Fan Wu and Utku Culha and Fares Abu-Dakka and Sami Haddadin}
+@ARTICLE{10378967,
+  author={So, Peter and Sarabakha, Andriy and Wu, Fan and Culha, Utku and Abu-Dakka, Fares J. and Haddadin, Sami},
+  journal={IEEE Robotics & Automation Magazine}, 
+  title={Digital Robot Judge: Building a Task-centric Performance Database of Real-World Manipulation With Electronic Task Boards}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={2-14},
+  doi={10.1109/MRA.2023.3336473}}
 }
 ```
 
