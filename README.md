@@ -7,11 +7,45 @@ Teams apply to receive a task board in the mail to prepare fully automated robot
 
 ## [Table of Contents](#table-of-contents)
 
+- [Robothon 2025 Results](#robothon-2025-results)
 - [Robothon 2023 Results](#robothon-2023-results)
 - [Robothon 2022 Results](#robothon-2022-results)
 - [Robothon 2021 Results](#robothon-2021-results)
 - [Getting your own Task Board](#getting-a-task-board)
 - [Citation](#citation)
+
+## [Robothon 2025 Results](#robothon-2025-results)
+
+NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Challenge at IROS 2024 [event website](https://sites.google.com/view/eurobin-msvc/)
+
+### Important Dates:
+- Application Deadline: 13.04.2025
+- Kickoff Meeting: 02.05.2025
+- Submission Deadline: 02.06.2025
+- Jury Evaluations: 05-07.06.2025
+- Award Ceremony: 27.06.2025
+
+Competition is ongoing. 
+
+### Competition Rules: 
+10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start.
+- SmartTaskBoard-v2025 "Touchscreen Marble Maze", 
+    - START TRIAL: Press Button B "Middle" (Human) or Send ROS Message (Robot),
+    - TASK 1: Localize task board and Press Blue Button, 
+    - TASK 2: "SPEED TEST" Press Red Button,
+    - TASK 3: "SCREEN TEST" Trace randomly-generated shapes, then Follow Prompts,
+    - TASK 4: "BALL CATCH TEST" Use the magnetic end of stylus to move marble to end of chute to trigger solenoid, press blue button to release solenoid and stop marble before it reaches the bottom of chute,,
+    - TASK 5: "MARBLE MAZE TEST" Move the marble through each of the three illuminated gates using the stylus magnet,,
+    - END TRIAL: Place the stylus back on the stand to end the timed trial.
+
+### Grading Rubric: 250 Points available
+- Automatic Grading: Task Completion Time over the [2025 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/8ce30d1f-bd06-4d15-9d51-69970b069975?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
+- Part 1 Score (160 points available):
+    - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
+    - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
+    - Code Re-Use: Solution uses a function or feature of a previous Robothon team solution which clear citation and attribution via GitHub Fork and Pull Request.
+    - Transferability: "Bring Your Own Device" Challenge (30 points)
+- Part 2 Score (40 points available): Live Presentation: 30min Zoom Call with Jury (40 points)
 
 ## [Robothon 2023 Results](#robothon-2023-results)
 
