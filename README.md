@@ -37,8 +37,10 @@ NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Chal
     - END TRIAL: Place the stylus back on the stand to end the timed trial.
 
 ### Grading Rubric: 250 Points available
+
 - Automatic Grading: Task Completion Time over the [2025 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/8ce30d1f-bd06-4d15-9d51-69970b069975?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
 - Part 1 Score (210 points available):
+
     - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
     - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
     - Code Re-Use: Solution uses a function or feature of a previous Robothon team solution which clear citation and attribution via GitHub Fork and Pull Request (50 points).
