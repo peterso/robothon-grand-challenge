@@ -25,27 +25,36 @@ NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Chal
 - Jury Evaluations: 05-07.06.2025
 - Award Ceremony: 27.06.2025
 
-Competition is ongoing. 
-
 ### Competition Rules: 
 10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start.
 - SmartTaskBoard-v2025 "Touchscreen Marble Maze", 
     - START TRIAL: Press Button B "Middle" (Human) or Send ROS Message (Robot),
     - TASK 1: Localize task board and Press Blue Button, 
-    - TASK 2: "SPEED TEST" Press Red Button,
-    - TASK 3: "SCREEN TEST" Trace randomly-generated shapes, then Follow Prompts,
-    - TASK 4: "BALL CATCH TEST" Use the magnetic end of stylus to move marble to end of chute to trigger solenoid, press blue button to release solenoid and stop marble before it reaches the bottom of chute,,
-    - TASK 5: "MARBLE MAZE TEST" Move the marble through each of the three illuminated gates using the stylus magnet,,
+    - TASK 2: "SPEED TEST" Press Red Button as fast as possible after releasing the Blue Button,
+    - TASK 3: "LIGHT Test" Wait for button light to illuminate after a random time and then press the button,
+    - TASK 4: "SCREEN TEST" Trace randomly-generated shapes, then Follow Prompts,
+    - TASK 5: "MARBLE MAZE TEST" Move and catch the falling marble in the maze by navigating through each of the three illuminated gates using the stylus magnet, 
     - END TRIAL: Place the stylus back on the stand to end the timed trial.
 
 ### Grading Rubric: 250 Points available
 - Automatic Grading: Task Completion Time over the [2025 version Web Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/8ce30d1f-bd06-4d15-9d51-69970b069975?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
-- Part 1 Score (160 points available):
+- Part 1 Score (210 points available):
     - Robustness: Success Rate over 5 Back-to-Back Trial Attempts (100 points, 20 points per trial run)
     - Documentation: Github Repo of Submission with Quick Start Guide (30 points)
-    - Code Re-Use: Solution uses a function or feature of a previous Robothon team solution which clear citation and attribution via GitHub Fork and Pull Request.
+    - Code Re-Use: Solution uses a function or feature of a previous Robothon team solution which clear citation and attribution via GitHub Fork and Pull Request (50 points).
     - Transferability: "Bring Your Own Device" Challenge (30 points)
 - Part 2 Score (40 points available): Live Presentation: 30min Zoom Call with Jury (40 points)
+
+| Rank | Team Country Robot Platform    | Task  Board  Time (seconds) | BYOD Demo                 | Part 1 Points | Part 2 Jury Points (Mean) | Total Points | Submission Repo | Submission Video |
+|------|--------------------------------|-----------------------------|---------------------------|---------------|---------------------------|--------------|-----------------|------------------|
+| 1    | Atlabotics (Ireland) UR5e      | DNF                         | Text-to- Action Interface | 210           | 37.5                      | 247.5        | [Link](https://github.com/Atlantic-Robotics-Lab/atlabotics-robothon)            | [Video](https://youtu.be/4LaRiCECEoM)            |
+| 2    | RoboTechX MDX (UAE) Epson VT6  | 106                         | Screen Puzzle Solver      | 210           | 29.0                      | 239.0        | [Link](https://github.com/a65iv/Robothon-2025/tree/main)            | [Video](https://www.youtube.com/watch?v=bMHY1cCpEJ8)            |
+| 3    | RoboPig (Germany) UR5e         | DNF                         | Phone Screen Test App     | 110           | 17.3                      | 117.3        | Link            | Video            |
+| 4    | Ctrl+Bot (Germany) Kinova Gen3 | DNF                         | None                      | 40            | 9.6                       | 49.6         | Link            | Video            |
+| -    | Botzilla (Germany)             | DNF                         |                           |               |                           |              |                 |                  |
+| -    | MechaAdam (Germany)            | DNF                         |                           |               |                           |              |                 |                  |
+| -    | SECORO  (Germany)              | DNF                         |                           |               |                           |              |                 |                  |
+| -    | TCS-Roboverse (India)          | DNF                         |                           |               |                           |              |                 |                  |
 
 ## [Robothon 2023 Results](#robothon-2023-results)
 
