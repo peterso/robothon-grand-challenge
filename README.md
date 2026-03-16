@@ -11,7 +11,7 @@ Teams apply to receive a task board in the mail to prepare fully automated robot
 - [Robothon 2023 Results](#robothon-2023-results)
 - [Robothon 2022 Results](#robothon-2022-results)
 - [Robothon 2021 Results](#robothon-2021-results)
-- [Getting your own Task Board](#getting-a-task-board)
+- [Getting your own electronic Task Board](#getting-a-task-board)
 - [Citation](#citation)
 
 ## [Robothon 2025 Results](#robothon-2025-results)
@@ -27,7 +27,7 @@ NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Chal
 
 ### Competition Rules: 
 10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start.
-- SmartTaskBoard-v2025 "Touchscreen Marble Maze", 
+- TBv2025 "Touchscreen & Marble Maze" [Protocol](/Assets/TBv2025_Test_Protocol.pdf)
     - START TRIAL: Press Button B "Middle" (Human) or Send ROS Message (Robot),
     - TASK 1: Localize task board and Press Blue Button, 
     - TASK 2: "SPEED TEST" Press Red Button as fast as possible after releasing the Blue Button,
@@ -73,7 +73,7 @@ NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Chal
 
 ### Competition Rules: 
 10-minute time limit for fully autonomous solution, task board randomly placed by team and fixed on velcro strips prior to trial start.
-- SmartTaskBoard-v2023 "Multimeter Design", 
+- TBv2023 "Multimeter Design" [Protocol](/Assets/TBv2023_Test_Protocol.pdf)
     - START TRIAL: Press M5 Button (Operator),
     - TASK 1: Localize task board and Press Blue Button, 
     - TASK 2: Move slider to center of travel, then read the randomly selected set point from the screen and move the slider to match,
@@ -127,7 +127,7 @@ NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Chal
 
 ### Competition Rules: 
 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
-- SmartTaskBoard-v2022 "Rigid Design", 
+- TBv2022 "Rigid Design" [Protocol](/Assets/TBv2021_Test_Protocol.pdf)
     - START TRIAL: Press M5 Button (Operator),
     - TASK 1: Find Task Board and Press Button to Confirm, 
     - TASK 2: Pick Key from Holster and Activate Key Switch, 
@@ -180,7 +180,7 @@ NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Chal
 
 ### Competition Rules: 
 10 minute time limit, Task Board randomly placed by team and fixed on Velcro Strips prior to trial start
-- SmartTaskBoard-v2021 "Cantilevered Design"
+- TBv2021 "Cantilevered Design" [Protocol](/Assets/TBv2021_Test_Protocol.pdf)
     - START TRIAL: Press M5 Button (Operator),
     - TASK 1: Find Task Board & Press Button to Confirm, (2 points) 
     - TASK 2: Pick Key from Holster and Insert and Turn to Activate Key Switch, (4 points)
@@ -214,8 +214,8 @@ NOTE: Schmalkalden only completed tasks on a fixed task board and did not random
 
 [Back to Top](#start-of-content)
 
-## [Getting your own Task Board](#getting-a-task-board)
-Task boards were designed and produced for the teams as part of their participation the competition. The design of the task board is made [open-source](https://github.com/peterso/robotlearningblock) to enable community members to build their own task boards or create new versions for their specific use case. Please send an email to peter@modularmotions.com if you would like a pre-assembled task board for a specific competition year, i.e. TBv2021, TBv2022, TBv2023. 
+## [Getting your own electronic Task Board](#getting-a-task-board)
+Electronic Task boards were designed and produced for the teams as part of their participation the competition. The design of the task board is made [open-source](https://github.com/peterso/robotlearningblock) to enable community members to build their own task boards or create new versions for their specific use case. Please send an email to peter@modularmotions.com if you would like a pre-assembled task board for a specific competition year, i.e. TBv2021, TBv2022, TBv2023, TBv2025. 
 
 [Back to Top](#start-of-content)
 
