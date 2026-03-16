@@ -47,6 +47,10 @@ NOTE: No Robothon event in 2024, see euROBIN Manipulation Skill Versatility Chal
     - Transferability: "Bring Your Own Device" Challenge (30 points)
 - Part 2 Score (40 points available): Live Presentation: 30min Zoom Call with Jury (40 points)
 
+### 2025 Summary [Scorecard](/Assets/Robothon2025_Scorecard_Summary.pdf): 
+- 8 Applications, 8 Selected Teams, 1 Finisher, Best Time 106 seconds.
+- 16,000EUR Prize Money, 3 Sponsors, 7 Jury Members, 3 Partners
+
 | Rank | Team Country Robot Platform    | Task  Board  Time (seconds) | BYOD Demo                 | Part 1 Points | Part 2 Jury Points (Mean) | Total Points | Submission Repo | Submission Video |
 |------|--------------------------------|-----------------------------|---------------------------|---------------|---------------------------|--------------|-----------------|------------------|
 | 1    | Atlabotics (Ireland) UR5e      | DNF                         | Text-to- Action Interface | 210           | 37.5                      | 247.5        | [Link](https://github.com/Atlantic-Robotics-Lab/atlabotics-robothon)            | [Video](https://youtu.be/4LaRiCECEoM)            |
